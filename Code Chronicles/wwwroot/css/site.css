@@ -141,3 +141,7 @@ a.user-git {
 .darkmode .bg-theme {
   background-color: rgba(84, 84, 84, 0.5);
 } 
+
+.animation-circle {
+  animation: 3s ease-in 1s infinite reverse both running slidein;
+}
