@@ -1,0 +1,30 @@
+# Definir o charset padrão para UTF-8 com BOM
+[*]
+charset = utf-8-bom
+
+# Definir o estilo de identação para usar espaços
+[*.{cs,vb}]
+indent_style = space
+indent_size = 4
+
+# Definir o estilo de identação para arquivos Razor
+[**.cshtml]
+indent_style = space
+indent_size = 2
+
+# Definir regras específicas para tipos de arquivo ou pastas
+[*.md]
+trim_trailing_whitespace = false
+insert_final_newline = true
+
+[*.json]
+indent_style = space
+indent_size = 2
+
+[*.xml]
+indent_style = space
+indent_size = 2
+
+# Ignorar regras para determinados arquivos
+[global]
+exclude = bin, obj, .vs, .git, .idea

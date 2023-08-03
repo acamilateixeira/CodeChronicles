@@ -1,0 +1,62 @@
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Sem Framework\Code Chronicles\Code Chronicles\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Sem Framework\Code Chronicles\Code Chronicles\bin\Debug\net7.0\appsettings.json
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Sem Framework\Code Chronicles\Code Chronicles\bin\Debug\net7.0\Code Chronicles.staticwebassets.runtime.json
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Sem Framework\Code Chronicles\Code Chronicles\bin\Debug\net7.0\Code Chronicles.exe
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Sem Framework\Code Chronicles\Code Chronicles\bin\Debug\net7.0\Code Chronicles.deps.json
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Sem Framework\Code Chronicles\Code Chronicles\bin\Debug\net7.0\Code Chronicles.runtimeconfig.json
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Sem Framework\Code Chronicles\Code Chronicles\bin\Debug\net7.0\Code Chronicles.dll
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Sem Framework\Code Chronicles\Code Chronicles\bin\Debug\net7.0\Code Chronicles.pdb
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Sem Framework\Code Chronicles\Code Chronicles\obj\Debug\net7.0\Code Chronicles.csproj.AssemblyReference.cache
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Sem Framework\Code Chronicles\Code Chronicles\obj\Debug\net7.0\Code Chronicles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Sem Framework\Code Chronicles\Code Chronicles\obj\Debug\net7.0\Code Chronicles.AssemblyInfoInputs.cache
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Sem Framework\Code Chronicles\Code Chronicles\obj\Debug\net7.0\Code Chronicles.AssemblyInfo.cs
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Sem Framework\Code Chronicles\Code Chronicles\obj\Debug\net7.0\Code Chronicles.csproj.CoreCompileInputs.cache
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Sem Framework\Code Chronicles\Code Chronicles\obj\Debug\net7.0\Code Chronicles.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Sem Framework\Code Chronicles\Code Chronicles\obj\Debug\net7.0\Code Chronicles.RazorAssemblyInfo.cache
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Sem Framework\Code Chronicles\Code Chronicles\obj\Debug\net7.0\Code Chronicles.RazorAssemblyInfo.cs
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Sem Framework\Code Chronicles\Code Chronicles\obj\Debug\net7.0\staticwebassets\msbuild.Code Chronicles.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Sem Framework\Code Chronicles\Code Chronicles\obj\Debug\net7.0\staticwebassets\msbuild.build.Code Chronicles.props
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Sem Framework\Code Chronicles\Code Chronicles\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Code Chronicles.props
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Sem Framework\Code Chronicles\Code Chronicles\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Code Chronicles.props
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Sem Framework\Code Chronicles\Code Chronicles\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Sem Framework\Code Chronicles\Code Chronicles\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Sem Framework\Code Chronicles\Code Chronicles\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Sem Framework\Code Chronicles\Code Chronicles\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Sem Framework\Code Chronicles\Code Chronicles\obj\Debug\net7.0\scopedcss\bundle\Code Chronicles.styles.css
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Sem Framework\Code Chronicles\Code Chronicles\obj\Debug\net7.0\scopedcss\projectbundle\Code Chronicles.bundle.scp.css
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Sem Framework\Code Chronicles\Code Chronicles\obj\Debug\net7.0\Code Chronicles.dll
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Sem Framework\Code Chronicles\Code Chronicles\obj\Debug\net7.0\refint\Code Chronicles.dll
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Sem Framework\Code Chronicles\Code Chronicles\obj\Debug\net7.0\Code Chronicles.pdb
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Sem Framework\Code Chronicles\Code Chronicles\obj\Debug\net7.0\Code Chronicles.genruntimeconfig.cache
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Sem Framework\Code Chronicles\Code Chronicles\obj\Debug\net7.0\ref\Code Chronicles.dll
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Com Framework\Code Chronicles\Code Chronicles\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Com Framework\Code Chronicles\Code Chronicles\bin\Debug\net7.0\appsettings.json
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Com Framework\Code Chronicles\Code Chronicles\bin\Debug\net7.0\Code Chronicles.staticwebassets.runtime.json
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Com Framework\Code Chronicles\Code Chronicles\bin\Debug\net7.0\Code Chronicles.exe
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Com Framework\Code Chronicles\Code Chronicles\bin\Debug\net7.0\Code Chronicles.deps.json
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Com Framework\Code Chronicles\Code Chronicles\bin\Debug\net7.0\Code Chronicles.runtimeconfig.json
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Com Framework\Code Chronicles\Code Chronicles\bin\Debug\net7.0\Code Chronicles.dll
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Com Framework\Code Chronicles\Code Chronicles\bin\Debug\net7.0\Code Chronicles.pdb
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Com Framework\Code Chronicles\Code Chronicles\obj\Debug\net7.0\Code Chronicles.csproj.AssemblyReference.cache
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Com Framework\Code Chronicles\Code Chronicles\obj\Debug\net7.0\Code Chronicles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Com Framework\Code Chronicles\Code Chronicles\obj\Debug\net7.0\Code Chronicles.AssemblyInfoInputs.cache
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Com Framework\Code Chronicles\Code Chronicles\obj\Debug\net7.0\Code Chronicles.AssemblyInfo.cs
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Com Framework\Code Chronicles\Code Chronicles\obj\Debug\net7.0\Code Chronicles.csproj.CoreCompileInputs.cache
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Com Framework\Code Chronicles\Code Chronicles\obj\Debug\net7.0\Code Chronicles.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Com Framework\Code Chronicles\Code Chronicles\obj\Debug\net7.0\Code Chronicles.RazorAssemblyInfo.cache
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Com Framework\Code Chronicles\Code Chronicles\obj\Debug\net7.0\Code Chronicles.RazorAssemblyInfo.cs
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Com Framework\Code Chronicles\Code Chronicles\obj\Debug\net7.0\staticwebassets\msbuild.Code Chronicles.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Com Framework\Code Chronicles\Code Chronicles\obj\Debug\net7.0\staticwebassets\msbuild.build.Code Chronicles.props
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Com Framework\Code Chronicles\Code Chronicles\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Code Chronicles.props
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Com Framework\Code Chronicles\Code Chronicles\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Code Chronicles.props
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Com Framework\Code Chronicles\Code Chronicles\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Com Framework\Code Chronicles\Code Chronicles\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Com Framework\Code Chronicles\Code Chronicles\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Com Framework\Code Chronicles\Code Chronicles\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Com Framework\Code Chronicles\Code Chronicles\obj\Debug\net7.0\scopedcss\bundle\Code Chronicles.styles.css
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Com Framework\Code Chronicles\Code Chronicles\obj\Debug\net7.0\scopedcss\projectbundle\Code Chronicles.bundle.scp.css
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Com Framework\Code Chronicles\Code Chronicles\obj\Debug\net7.0\Code Chronicles.dll
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Com Framework\Code Chronicles\Code Chronicles\obj\Debug\net7.0\refint\Code Chronicles.dll
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Com Framework\Code Chronicles\Code Chronicles\obj\Debug\net7.0\Code Chronicles.pdb
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Com Framework\Code Chronicles\Code Chronicles\obj\Debug\net7.0\Code Chronicles.genruntimeconfig.cache
+C:\Users\camil\OneDrive\Documentos\Projetos\Para Portifolio\Back C#\Com Framework\Code Chronicles\Code Chronicles\obj\Debug\net7.0\ref\Code Chronicles.dll
